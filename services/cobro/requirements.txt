@@ -1,0 +1,10 @@
+Flask==1.0.2
+Flask-CLI==0.4.0
+Flask-SQLAlchemy==2.3.2
+psycopg2==2.7.5
+python-dateutil
+flask-cors
+coverage
+flask-debugtoolbar == 0.11.0
+flake8
+django
